@@ -24,4 +24,4 @@
 
 - ### Resutados
 
-- ![Alt text](./exercício.png.png"Optional title")
+- ![Alt text](./passwd.png "Optional title")
